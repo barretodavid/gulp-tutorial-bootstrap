@@ -9,4 +9,4 @@ npm install
 bower install
 ```
 
-To run it, just write `gulp` into your console.
+To run it, just write `gulp` on your console.
